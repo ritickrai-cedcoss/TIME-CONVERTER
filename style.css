@@ -1,0 +1,27 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family:Helvetica, sans-serif;
+}
+
+#main{
+  width: 60%;
+  margin-top: 5%;
+  margin-left: 10%;
+  background-color: aqua;
+  display: block;
+  padding: 5% 10%;
+}
+#main label{
+  font-size: 1.5rem;
+  display: block;
+  margin-bottom: 2%;
+}
+
+#convert, #valNum{
+  padding: 1% 2%;
+  font-size: 1.5rem;
+}
+#output{
+  font-size: 1rem;
+}
